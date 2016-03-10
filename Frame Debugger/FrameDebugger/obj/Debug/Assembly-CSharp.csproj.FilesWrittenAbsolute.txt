@@ -1,0 +1,17 @@
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/obj/Debug/Assembly-CSharp.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/UnityEngine.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/UnityEditor.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Mono.Cecil.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/zhanglm/Desktop/Editor New Features In Unity 5.x/Frame Debugger/FrameDebugger/Temp/bin/Debug/Mono.Cecil.Mdb.dll
